@@ -1,0 +1,5 @@
+# median
+* Mediam
+
+To calculate mean, median, of an input
+data set read from a file.
